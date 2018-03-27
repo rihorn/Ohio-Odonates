@@ -1,0 +1,107 @@
+County,Species Richness,Sample effort,subregion,SpeciesRichness_OOSiNat,Effort_OOSiNat,FocusHere_lessthan300,Sp_40orfewer,OhioRegions,OhioRegions_name
+Adams,87,636,adams,88,660,,,5,Southwest
+Allen,39,139,allen,40,147,1,1,2,Northwest
+Ashland,94,929,ashland,940,930,,,3,Northeast
+Ashtabula,97,896,ashtabula,97,898,,,3,Northeast
+Athens,72,485,athens,72,488,,,4,Southeast
+Auglaize,41,204,auglaize,42,215,1,,5,Southwest
+Belmont,40,245,belmont,40,245,1,1,4,Southeast
+Brown,41,111,brown,41,111,1,,5,Southwest
+Butler,68,635,butler,71,644,,,5,Southwest
+Carroll,51,194,carroll,52,196,1,,3,Northeast
+Champaign,78,1401,champaign,80,1448,,,1,Central
+Clark,50,364,clark,50,374,,,5,Southwest
+Clermont,49,412,clermont,55,437,,,5,Southwest
+Clinton,34,226,clinton,34,226,1,1,5,Southwest
+Columbiana,66,263,columbiana,66,264,1,,3,Northeast
+Coshocton,55,322,coshocton,55,322,,,4,Southeast
+Crawford,38,173,crawford,38,173,1,1,2,Northwest
+Cuyahoga,81,407,cuyahoga,82,459,,,3,Northeast
+Darke,54,169,darke,60,267,1,,5,Southwest
+Defiance,81,673,defiance,81,673,,,2,Northwest
+Delaware,78,568,delaware,78,579,,,1,Central
+Erie,80,1106,erie,83,1111,,,2,Northwest
+Fairfield,81,1106,fairfield,83,1010,,,1,Central
+Fayette,32,115,fayette,32,115,1,1,1,Central
+Franklin,101,2358,franklin,104,2392,,,1,Central
+Fulton,48,156,fulton,48,156,1,,2,Northwest
+Gallia,51,192,gallia,51,193,1,,4,Southeast
+Geauga,104,1705,geauga,108,1727,,,3,Northeast
+Greene,69,763,greene,72,836,,,5,Southwest
+Guernsey,44,208,guernsey,45,208,1,,4,Southeast
+Hamilton,76,558,hamilton,78,576,,,5,Southwest
+Hancock,67,277,hancock,67,277,1,,2,Northwest
+Hardin,39,137,hardin,39,137,1,1,2,Northwest
+Harrison,39,100,harrison,40,102,1,1,3,Northeast
+Henry,37,69,henry,37,69,1,1,2,Northwest
+Highland,47,215,highland,47,215,1,,5,Southwest
+Hocking,80,747,hocking,80,752,,,4,Southeast
+Holmes,56,388,holmes,57,390,,,3,Northeast
+Huron,45,121,huron,45,121,1,,2,Northwest
+Jackson,49,322,jackson,49,322,,,4,Southeast
+Jefferson,50,162,jefferson,52,169,1,,3,Northeast
+Knox,65,361,knox,65,364,,,1,Central
+Lake,107,2335,lake,109,2374,,,3,Northeast
+Lawrence,43,132,lawrence,43,132,1,,4,Southeast
+Licking,94,1466,licking,94,1471,,,1,Central
+Logan,79,1390,logan,79,1404,,,1,Central
+Lorain,58,158,lorain,58,164,1,,3,Northeast
+Lucas,100,587,lucas,100,604,,,2,Northwest
+Madison,45,340,madison,46,341,,,1,Central
+Mahoning,59,130,mahoning,59,130,1,,3,Northeast
+Marion,40,67,marion,40,67,1,1,1,Central
+Medina,71,257,medina,76,452,,,3,Northeast
+Meigs,49,196,meigs,49,196,1,,4,Southeast
+Mercer,40,115,mercer,40,117,1,1,5,Southwest
+Miami,67,439,miami,73,534,,,5,Southwest
+Monroe,39,109,monroe,40,119,1,1,4,Southeast
+Montgomery,74,993,montgomery,82,1077,,,5,Southwest
+Montgomery ?,3,16,,,,,,,
+Morgan,54,292,morgan,55,294,1,,4,Southeast
+Morgan/Athens ?,3,11,,,,,,,
+Morgan/Perry ?,1,1,,,,,,,
+Morrow,48,206,morrow,49,208,1,,1,Central
+Muskingum,60,444,muskingum,60,445,,,4,Southeast
+Muskingum ?,5,47,,,,,,,
+Noble,38,139,noble,38,139,1,1,4,Southeast
+Ottawa,71,999,ottawa,71,999,,,2,Northwest
+Ottawa ?,2,3,,,,,,,
+Paulding,86,1078,paulding,86,1078,,,2,Northwest
+Perry,47,175,perry,47,179,1,,4,Southeast
+Pickaway,53,483,pickaway,53,487,,,1,Central
+Pike,62,225,pike,62,225,1,,4,Southeast
+Pike ?,1,1,,,,,,,
+Portage,107,1104,portage,108,1154,,,3,Northeast
+Portage ?,8,40,,,,,,,
+Portage/Summit ?,1,2,,,,,,,
+Preble,37,172,preble,38,176,1,1,5,Southwest
+Putnam,47,236,putnam,47,236,1,,2,Northwest
+Putnam ?,1,5,,,,,,,
+Richland,67,131,richland,67,161,1,,2,Northwest
+Richland ?,1,2,,,,,,,
+Ross,60,467,ross,60,468,,,4,Southeast
+Ross ?,1,2,,,,,,,
+Sandusky,35,201,sandusky,35,202,1,1,2,Northwest
+Scioto,54,199,scioto,55,201,1,,4,Southeast
+Scioto ?,2,2,,,,,,,
+Seneca,38,146,seneca,38,146,1,1,2,Northwest
+Shelby,43,184,shelby,43,186,1,,5,Southwest
+Shelby ?,2,2,,,,,,,
+Stark,77,445,stark,83,494,,,3,Northeast
+Summit,101,913,summit,108,1143,,,3,Northeast
+Summit ?,2,6,,,,,,,
+Trumbull,70,481,trumbull,72,487,,,3,Northeast
+Tuscarawas,56,430,tuscarawas,60,435,,,3,Northeast
+Union,41,258,union,41,262,1,,1,Central
+Van Wert,38,99,van wert,38,99,1,1,2,Northwest
+Vinton,78,956,vinton,78,956,,,4,Southeast
+Vinton ?,2,3,,,,,,,
+WV Wood ?,1,2,,,,,,,
+Warren,50,525,warren,59,571,,,5,Southwest
+Washington,66,930,washington,67,942,,,4,Southeast
+Wayne,69,826,wayne,69,832,,,3,Northeast
+Wayne/Stark ?,3,5,,,,,,,
+Williams,112,2439,williams,112,2439,,,2,Northwest
+Wood,40,117,wood,41,121,1,,2,Northwest
+Wyandot,38,150,wyandot,38,156,1,1,2,Northwest
+Wyandot  ?,1,3,,,,,,,
